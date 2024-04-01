@@ -8,9 +8,9 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Muaz Aqdas </span>
+            Hi Everyone, I am <span className="purple">Anand Mohan Jha </span>
             from <span className="purple"> Delhi, India.</span>
-            <br />I am a junior pursuing B.Tech in Mathematics and Computing in Delhi Technological University.
+            <br />I am a junior pursuing B.Tech in Aritificial Intelligence and Data Science from BPIT, Delhi, India
             <br />
             <br />
             Apart from coding, some other activities that I love to do!

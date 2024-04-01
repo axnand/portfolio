@@ -13,16 +13,16 @@ function Footer() {
     <Container fluid className="footer">
       <Row>
         <Col md="4" className="footer-copywright">
-          <h3>Designed and Developed by Muaz Aqdas</h3>
+          <h3>Designed and Developed by Anand</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {new Date().getFullYear()} MA</h3>
+          <h3>Copyright © {new Date().getFullYear()} </h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/muazaqdas"
+                href="https://github.com/axnand"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -32,7 +32,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://twitter.com/MuazAqdas2"
+                href="https://twitter.com/anandsenpai"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -42,7 +42,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/muaz-aqdas-b1189a202/"
+                href="https://www.linkedin.com/in/anand-mohan-jha-788507256/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -52,7 +52,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/muazaqdas/"
+                href="https://www.instagram.com/aanaxnd/"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"

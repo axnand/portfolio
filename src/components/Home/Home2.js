@@ -24,7 +24,7 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C++, Javascript and Python. </b>
+                <b className="purple"> JAVA and JAVASCRIPT </b>
               </i>
               <br />
               <br />
@@ -33,7 +33,7 @@ function Home2() {
                 <b className="purple">Web Technologies and Products </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Machine Learning.
+                  Artificial Intelligence 
                 </b>
               </i>
               <br />
@@ -68,7 +68,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/muazaqdas"
+                  href="https://github.com/axnand"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -78,7 +78,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://twitter.com/MuazAqdas2"
+                  href="https://twitter.com/anandsenpai"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -88,7 +88,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/muaz-aqdas-b1189a202/"
+                  href="https://www.linkedin.com/in/anand-mohan-jha-788507256/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -98,7 +98,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com/muazaqdas/"
+                  href="https://www.instagram.com/aanaxnd/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
